@@ -1,4 +1,8 @@
-namespace System.Data.Odbc.Tests
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace XUnitTestProject1
 {
     public static class ConnectionStrings
     {

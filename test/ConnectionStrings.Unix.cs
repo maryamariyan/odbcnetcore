@@ -1,4 +1,4 @@
-namespace System.Data.Odbc.Tests
+﻿namespace XUnitTestProject1
 {
     public static class ConnectionStringsUnix
     {

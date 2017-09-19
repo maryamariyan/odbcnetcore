@@ -1,6 +1,7 @@
-﻿// using Xunit;
+﻿using System;
+using System.Data.Odbc;
 
-namespace System.Data.Odbc.Tests
+namespace XUnitTestProject1
 {
     public abstract class IntegrationTestBase : IDisposable
     {
